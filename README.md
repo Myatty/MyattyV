@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello there! 👋, I'm Myint Myat Pyae Sone</h1>
-<h3 align="center">A passionate Software Engineering Student from Myanmar.</h3>
+<h1 align="center">Hello there! , I'm Myint Myat Pyae Sone</h1>
+<h3 align="center">A passionate Soon-to-be Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myatty&label=Profile%20views&color=0e75b6&style=flat" alt="myatty" /> </p>
 
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **myintmyatps664@gmail.com**
 
-- ⚡ Fun fact **I'm such a weird guy. xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
